@@ -53,3 +53,14 @@ function checkNumber(num) {
     }
 }
 console.log(checkNumber(-4));
+
+function checkNumber (num) {
+    if (num > 0) {
+        return 'this number is positive';
+    } else if (num < 0) {
+        return 'this number is negative';
+    } else {
+        return 'it was zero';
+    }
+}
+console.log(checkNumber(9));

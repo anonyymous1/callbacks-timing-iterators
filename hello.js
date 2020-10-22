@@ -28,4 +28,32 @@ function sayHello(name) {
 }
 console.log(sayHello('Eric'));
 
-function checkNumber(num) {}
+function sayHello(name) {
+    let msg = 'Hello ' + name + '. How are you?';
+    return msg;
+}
+console.log(sayHello('Bro'));
+
+function sayHello(name) {
+    let msg = 'Hello ' + name + '. How are you?';
+    return msg;
+}
+console.log(sayHello('Mom'));
+
+function sayHello(name) {
+    let msg = 'Hello ' + name + '. How are you?';
+    return msg;
+}
+console.log(sayHello('Hey'));
+
+function sayHello(name) {
+    let msg = 'Hello ' + name + '. How are you?';
+    return msg;
+}
+console.log(sayHello('Joe'));
+
+function sayHello(name) {
+    let msg = 'Hello ' + name + '. How are you?';
+    return msg;
+}
+console.log(sayHello('Yuurr!'));
